@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Basecoat-Bold";
+  src: url("basecoats/basecoat-bold.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Basecoat";
+  src: url("basecoats/basecoat.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: "Basecoat-Light";
+  src: url("basecoats/basecoat-light.ttf") format("ttf");
+}
